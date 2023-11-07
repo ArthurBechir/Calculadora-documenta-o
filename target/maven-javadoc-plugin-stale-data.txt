@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/User/Documents/NetBeansProjects/Calculadora/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/User/Documents/NetBeansProjects/Calculadora/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Calculadora 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Calculadora 1.0-SNAPSHOT API'
+Classes
+C:\Users\User\Documents\NetBeansProjects\Calculadora\src\main\java = 1695518642033
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\allclasses-index.html = 1699378174573
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\allpackages-index.html = 1699378174576
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\copy.svg = 1699378175806
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\element-list = 1699378173965
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\help-doc.html = 1699378175652
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\index-all.html = 1699378174924
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\index.html = 1699378175034
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\jquery-ui.overrides.css = 1699378178209
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\member-search-index.js = 1699378174582
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\module-search-index.js = 1699378174578
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\overview-tree.html = 1699378174412
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\package-search-index.js = 1699378174579
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\script.js = 1699378175805
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\search-page.js = 1699378176750
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\search.html = 1699378175031
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\search.js = 1699378176582
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\stylesheet.css = 1699378175753
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\tag-search-index.js = 1699378174583
+C:\Users\User\Documents\NetBeansProjects\Calculadora\target\site\apidocs\type-search-index.js = 1699378174580
